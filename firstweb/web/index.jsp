@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>汪丽萍的页面</title>
+    <title>wlp的页面</title>
   </head>
   <body>
-  黄一帅是个小可爱
+  hys是个小可爱
   </body>
 </html>
